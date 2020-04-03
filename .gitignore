@@ -1,9 +1,6 @@
 .vscode
 .DS_Store
 
-/html/*
-!/html/index.php
-
 /mysql5.7/mysql
 /mysql5.7/mysqlvolume/*
 !/mysql5.7/mysqlvolume/.gitkeep
