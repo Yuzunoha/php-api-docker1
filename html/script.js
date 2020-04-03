@@ -1,4 +1,4 @@
-let url = 'http://localhost:8888/php-api/';
+let url = 'http://localhost:10080/php-api/';
 
 //ユーザー登録
 const signup = () => {
